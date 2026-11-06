@@ -36,7 +36,7 @@ Cloud and platform engineering focused on building, scaling, and optimizing prod
 
 🔹 **[Platform Engineering Toolkit](https://github.com/GoddeyUwamari/REPO-NAME) & [Production API Framework](https://github.com/GoddeyUwamari/REPO-NAME)** — Templates and a Node.js/TypeScript foundation for spinning up production-ready services with standardized APIs, Docker, Kubernetes manifests, CI/CD pipelines, monitoring, and security defaults built in.
 
-🔹 **DevControl** *(private repo)* — Read-only AWS integration for cost, security, and infrastructure-health analysis. Live at [getdevcontrol.com](https://getdevcontrol.com).
+🔹 **DevControl** *(public repo)* — Read-only AWS integration for cost, security, and infrastructure-health analysis. Live at [getdevcontrol.com](https://getdevcontrol.com).
 
 ## Track Record
 
