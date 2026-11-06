@@ -1,8 +1,8 @@
 # Hi, I'm Goddey Uwamari 👋
 
-**Founder @ DevControl & WayUP Technology | Cloud & Platform Engineering Consultant | Helping Companies Build, Scale & Optimize Production Infrastructure on AWS and Beyond**
+**Founder @ DevControl & WayUP Technology | Cloud & Platform Engineering Consultant | Helping Companies Build, Scale & Optimize Multi-Cloud Infrastructure | AWS • GCP • Azure • FinOps • Multi-Tenant SaaS**
 
-I help companies build, scale, and optimize production-grade software and cloud infrastructure, from multi-tenant application architecture and backend systems to cloud infrastructure, CI/CD, observability, security, and FinOps.
+I work with companies on complex engineering and infrastructure challenges — designing resilient architectures, modernizing backend systems, improving cloud operations, strengthening security and observability, and building the platforms and automation needed to run reliable software in production.
 
 ## What I Build
 
